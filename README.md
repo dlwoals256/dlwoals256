@@ -9,7 +9,7 @@
 - 💬 **Ask me about** what are you into these days?
 - 📫 **How to reach me**: bocchithecoding@gmail.com
 - 😄 **Pronouns**: Jae-Min, as it be written.
-- ⚡ **Fun fact**: I'm introvert.
+- ⚡ **Fun fact**: I love opensource community :>
 
 ## 🔨 My main stacks 🔨
 
