@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![banner](banner.png)
-
 - 🔭 **I’m currently learning on** Pukyong National University on Korea, Republic of.
 - 🌱 **I’m currently learning** Japanese!!
 - 👯 **I’m looking to collaborate on** AI!!
