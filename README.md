@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 
 
 - 🔭 **I’m currently learning on** Pukyong National University on Korea, Republic of.
 - 🌱 **I’m currently learning** Japanese
@@ -7,7 +7,7 @@
 - 📫 **How to reach me**: bocchithecoding@gmail.com
 - 😄 **Pronouns**: Jae-Min, as it be written.
 - ⚡ **Fun fact**: I love opensource community :>
-<!-- - 👯 **I’m looking to collaborate on** -->
+- 👯 **I’m looking to collaborate on**
 
 ## 🔨 My main stacks 🔨
 
@@ -20,3 +20,5 @@
 ![badge](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![badge](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+-->
